@@ -68,13 +68,16 @@ In this chart, we can visualize transactions via UPI ID, Self Account, Mobile Nu
 In this chart, May and October show the highest number of transactions. The company should focus on these months to ensure smooth operations. Additional details are provided in the tooltip, which highlights the most critical information for decision-making.<br>
 
 •	Business Impact & Insights<br>
-Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain).
-Strategic Expansion: Resort developers can spot underdeveloped regions with high potential.
-Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
-Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+Service Performance Optimization:
+Helps PhonePe identify which services (Money Transfer, Recharge/Bills, Loans, Insurance) face the most failures, enabling targeted improvements to enhance customer satisfaction.<br>
+Reliability Enhancement:
+By understanding the root causes of failures—such as insufficient balance, wrong PIN, or system errors—PhonePe can improve platform stability and reduce transaction drop rates.<br>
+Reliability Enhancement:
+By understanding the root causes of failures—such as insufficient balance, wrong PIN, or system errors—PhonePe can improve platform stability and reduce transaction drop rates.<br>
+Reliability Enhancement:
+By understanding the root causes of failures—such as insufficient balance, wrong PIN, or system errors—PhonePe can improve platform stability and reduce transaction drop rates.<br>
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/Danishsheik329/PhonePe_Analysis/blob/main/Screenshot%202025-12-05%20191300.png)
-Example: ![Dashboard Preview](https://github.com/Danishsheik329/PhonePe_Analysis/blob/main/Screenshot%202025-12-05%20191300.png)
+ ![Dashboard Preview](https://github.com/Danishsheik329/PhonePe_Analysis/blob/main/Screenshot%202025-12-05%20191300.png)
 
 # PhonePe-Analysis
