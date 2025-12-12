@@ -4,7 +4,7 @@
 PhonePe Transaction Analytics: Service Performance & Failure Insights.
 
 ### 2.	Short Description / Purpose 
-TThe PhonePe Analysis Dashboard helps the company make data-driven decisions by analyzing key services such as Money Transfer, Recharge/Bills, Loans, and Insurance. It highlights service performance, transaction volume, and failure patterns, enabling the business to identify which areas need more focus.
+The PhonePe Analysis Dashboard helps the company make data-driven decisions by analyzing key services such as Money Transfer, Recharge/Bills, Loans, and Insurance. It highlights service performance, transaction volume, and failure patterns, enabling the business to identify which areas need more focus.
 The dashboard is designed with four separate pages, each dedicated to a specific service (Money Transfer, Recharge/Bills, Loans, and Insurance), allowing clear and detailed exploration of service-wise performance.
 The dataset contains ~300,000 transaction records, providing a strong foundation for deep analytical insights and strategic decision-making.
 ### 3.	Tech Stack
